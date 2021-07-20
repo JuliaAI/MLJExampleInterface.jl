@@ -1,7 +1,7 @@
 # MLJ.jl <--> CoolModels.jl
 
-Repository implementing the [MLJ](https://alan-turing-institute.github.io/MLJ.jl/dev/) model interface for 
-[CoolStats.jl](https://github.com/SomeOrganization/CoolStats.jl) models.
+Repository implementing the [MLJ](https://alan-turing-institute.github.io/MLJ.jl/dev/) model interface for models provided by 
+[CoolModels.jl](https://github.com/SomeOrganization/CoolModels.jl).
 
 | Linux | Coverage | 
 | :------------ | :------- | 
