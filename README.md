@@ -1,10 +1,10 @@
-# MLJExampleInterface
+# MLJExampleInterface.jl
 
-This repository is a template for repositories providing code to
-implement the
-[MLJ]((https://alan-turing-institute.github.io/MLJ.jl/dev/) model
-interface, that is, for creating a so called *interface-only
-packages*.
+This repository is a template for creating repositories that contain
+glue code between packages providing machine learing algorithms, and
+the machine learning toolbox
+[MLJ](https://alan-turing-institute.github.io/MLJ.jl/dev/) - that is,
+for so-called *interface-only packages*.
 
 
 ## When to use this template
@@ -12,13 +12,11 @@ packages*.
 This template is intended for use when a package providing a machine
 learning model algorithm is not hosting the code that implements the
 MLJ model API, and a separate package for this purpose is to be
-created. For more see
-[here](https://alan-turing-institute.github.io/MLJ.jl/dev/adding_models_for_general_use/#Where-to-place-code-implementing-new-models). This
-repo is itself a a working implementation but is should be used in
-conjunction with the more detailed [model implementation
+created. This repo is itself a a working implementation but should
+be used in conjunction with the more detailed [model implementation
 guidelines](https://alan-turing-institute.github.io/MLJ.jl/dev/adding_models_for_general_use/).
 
-## Instructions in brief
+## How to use this template
 
 1. Clone this repository or use it as a template if available from your organization. 
 
