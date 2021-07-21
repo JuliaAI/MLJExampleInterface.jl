@@ -12,7 +12,7 @@ for so-called *interface-only packages*.
 This template is intended for use when a package providing a machine
 learning model algorithm is not hosting the code that implements the
 MLJ model API, and a separate package for this purpose is to be
-created. This repo is itself a a working implementation but should
+created. This repo is itself a working implementation but should
 be used in conjunction with the more detailed [model implementation
 guidelines](https://alan-turing-institute.github.io/MLJ.jl/dev/adding_models_for_general_use/).
 
