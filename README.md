@@ -21,21 +21,23 @@ guidelines](https://alan-turing-institute.github.io/MLJ.jl/dev/adding_models_for
 
 2. Rename this repository, replacing the word "Example" with the name of the model-providing package.
 
-1. Develop the contents of src/MLJExampleInterface.jl appropriately
+1. Develop the contents of src/MLJExampleInterface.jl appropriately.
 
-2. Rename src/MLJExampleInterface.jl appropriately
+2. Rename src/MLJExampleInterface.jl appropriately.
 
-3. Remove Example from Project.toml and instead add the model-providing package
+3. Remove Example from Project.toml and instead add the model-providing package.
 
 3. **GENERATE A NEW UUID in Project.toml** and change the Project.toml
-   name and author appropriately
+   name and author appropriately.
+   
+1. You may want to remove the Distributions test dependency if you don't need it.
 
 4. Replace every instance of "Example" in this README.md with the name
    of the model-providing package and adjust the organization name in
    the link.
 
 5. Remove everything in this REAMDE.md except what is below the line
-   you are currently reading &#128521;
+   you are currently reading &#128521;.
 
 
 # MLJ.jl <--> Example.jl
