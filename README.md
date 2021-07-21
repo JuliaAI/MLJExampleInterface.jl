@@ -6,7 +6,6 @@ the machine learning toolbox
 [MLJ](https://alan-turing-institute.github.io/MLJ.jl/dev/) - that is,
 for so-called *interface-only packages*.
 
-
 ## When to use this template
 
 This template is intended for use when a package providing a machine
@@ -42,4 +41,4 @@ Repository implementing the [MLJ](https://alan-turing-institute.github.io/MLJ.jl
 
 | Linux | Coverage |
 | :------------ | :------- |
-| [![Build Status](https://github.com/JuliaAI/MLJInterfaceTemplate.jl.jl/workflows/CI/badge.svg)](https://github.com/JuliaAI/MLJInterfaceTemplate.jl.jl/actions) | [![Coverage](https://codecov.io/gh/JuliaAI/MLJInterfaceTemplate.jl.jl/branch/master/graph/badge.svg)](https://codecov.io/github/JuliaAI/MLJInterfaceTemplate.jl.jl?branch=master) |
+| [![Build Status](https://github.com/JuliaAI/MLJExampleInterface.jl.jl/workflows/CI/badge.svg)](https://github.com/JuliaAI/MLJExampleInterface.jl.jl/actions) | [![Coverage](https://codecov.io/gh/JuliaAI/MLJExampleInterface.jl.jl/branch/master/graph/badge.svg)](https://codecov.io/github/JuliaAI/MLJExampleInterface.jl.jl?branch=master) |
