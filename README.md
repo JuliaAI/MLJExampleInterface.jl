@@ -27,11 +27,15 @@ guidelines](https://alan-turing-institute.github.io/MLJ.jl/dev/adding_models_for
 
 3. Remove Example from Project.toml and instead add the model-providing package
 
-3. **GENERATE A NEW UUID in Project.toml**
+3. **GENERATE A NEW UUID in Project.toml** and change the Project.toml
+   name and author appropriately
 
-4. Replace every instance of "Example" in this README.md with the name of the model-providing package and adjust the organization name in the link.
+4. Replace every instance of "Example" in this README.md with the name
+   of the model-providing package and adjust the organization name in
+   the link.
 
-5. Remove everything in this REAMDE.md except what is below the line you are currently reading &#128521;
+5. Remove everything in this REAMDE.md except what is below the line
+   you are currently reading &#128521;
 
 
 # MLJ.jl <--> Example.jl
