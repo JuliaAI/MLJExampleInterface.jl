@@ -1,7 +1,7 @@
 # MLJExampleInterface.jl
 
 This repository is a template for creating repositories that contain
-glue code between packages providing machine learing algorithms, and
+glue code between (i) packages providing machine learning algorithms; and (ii)
 the machine learning toolbox
 [MLJ](https://alan-turing-institute.github.io/MLJ.jl/dev/) - that is,
 for so-called *interface-only packages*.
